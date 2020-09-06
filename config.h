@@ -22,7 +22,7 @@ static const char * message = "Suckless: Software that sucks less.";
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * font_name = "6x10";
+static const char * font_name = "-misc-jetbrains mono extra bold-extrabold-r-normal--0-0-0-0-m-0-iso8859-16";
 
 /*
  * Xresources preferences to load at startup
